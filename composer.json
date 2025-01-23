@@ -1,5 +1,5 @@
 {
-    "name": "jane/zen-payments-sdk",
+    "name": "v.shavkutenko/zen-payments-sdk",
     "autoload": {
         "psr-4": {
             "Application\\": "src/Application/",
